@@ -11,6 +11,8 @@ The PhotoStudio Dashboard is a sleek and modern interface for a fictional photo 
 - Stylish navigation menu with hover effects
 - Custom buttons and form elements
 
+- **Folder:** `PhotoStudio`
+
 ### 2. Spotify Dashboard
 The Spotify Dashboard is a recreation of a music streaming app's dashboard. This project focuses on complex layouts, media queries, and custom CSS components.
 
@@ -19,6 +21,8 @@ The Spotify Dashboard is a recreation of a music streaming app's dashboard. This
 - Sidebar navigation with active states
 - Music player controls with custom styles
 - Responsive design adapting to various screen sizes
+
+- **Folder:** `Spotify`
 
 ## Clone the repository:
    ```bash
