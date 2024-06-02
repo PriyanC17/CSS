@@ -20,8 +20,6 @@ The Spotify Dashboard is a recreation of a music streaming app's dashboard. This
 - Music player controls with custom styles
 - Responsive design adapting to various screen sizes
 
-## Getting Started
-
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/PriyanC17/CSS.git
